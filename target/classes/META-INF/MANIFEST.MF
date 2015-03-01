@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: lichicheng
+Build-Jdk: 1.6.0_10-beta
+Class-Path: lib/junit-4.7.jar lib/jep-2.4.2.jar lib/jama-1.0.3.jar lib
+ /commons-io-2.2.jar lib/slf4j-api-1.7.5.jar lib/commons-beanutils-1.8
+ .0.jar lib/commons-logging-1.1.1.jar lib/commons-lang-2.5.jar lib/htt
+ pclient-4.2.3.jar lib/httpcore-4.2.2.jar lib/commons-codec-1.6.jar li
+ b/slf4j-log4j12-1.7.5.jar lib/log4j-1.2.12.jar
+Main-Class: com.laigaoxing.entrance.AddJavascriptVersionMain
+Created-By: Maven Integration for Eclipse
+

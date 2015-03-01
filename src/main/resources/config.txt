@@ -1,0 +1,6 @@
+font=黑体
+#桌面目录
+home=C:\\Users\\jeff\\Desktop\\
+project_source=E:\\project_source\\
+
+encod=utf8
